@@ -6,4 +6,14 @@
 
 body {
     padding-top: 70px;
+
+    background-color: #d2e6dc;
+}
+
+.jumbotron {
+    background-image: url("../img/coc.jpg");
+    background-position: center;
+    background-size: auto;
+
+    color: white;
 }
