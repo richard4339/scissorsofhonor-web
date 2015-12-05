@@ -11,11 +11,17 @@ body {
 }
 
 .jumbotron {
-    background-image: url("../img/coc.jpg");
+    background-image: url("../img/coc.png");
     background-position: center;
     background-size: auto;
 
-    opacity: 0.6;
-
     /*color: white;*/
+}
+
+.jumbo-spacer.large-spacer {
+    min-height: 250px;
+}
+
+.jumbo-spacer.small-spacer {
+    min-height: 175px;
 }
